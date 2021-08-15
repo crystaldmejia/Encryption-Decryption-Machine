@@ -7,4 +7,4 @@ This project is a simplified version of a real-world RSA encryption-decryption m
 - Encrypts using a public key
 - Decrypts using a private key
 
-The two files are Python scripts - one for encrypting nad one for decrypting.
+The two files are Python scripts - one for encrypting and one for decrypting.
